@@ -1,0 +1,20 @@
+Origin: Foo
+Label: Foo Github
+Suite: stable
+Codename: jammy
+Date: Mon, 11 Nov 2024 09:29:49 UTC
+Architectures: amd64
+Components: main
+Description: Debian x64 github repository
+MD5Sum:
+ 1cf7db73cd2d7575493cf480ff68ce08 506 main/binary-amd64/Packages
+ 41594ac1320a9c1d4fffb99769c1890e 388 main/binary-amd64/Packages.gz
+ 4f32f20bb6d750b0b3b03ee74af2a463 124 main/binary-amd64/Release
+SHA1:
+ 60d87799645ee4937db62a2f1f1fe72d6a1241ac 506 main/binary-amd64/Packages
+ cbf3353dda6d588a3fa2b804222a3b1f9f9a503c 388 main/binary-amd64/Packages.gz
+ f568858289a8d6704d30611ba6d8b9283ceb4cf3 124 main/binary-amd64/Release
+SHA256:
+ e9839f36e649be7eda07b8f72fdd9c03d3cdd593160ab3d79c145d5f375cae04 506 main/binary-amd64/Packages
+ 60d2d6ba87121abb8d43a945296bd60b5c9b11833a8b442573ac7842dd75f52b 388 main/binary-amd64/Packages.gz
+ 12d39f9679501d8d95a49d9c7f5f3d3a1155d939f7965e5c59cb9dfe9b974a44 124 main/binary-amd64/Release
