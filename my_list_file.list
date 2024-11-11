@@ -1,0 +1,1 @@
+deb [signed-by=/etc/apt/trusted.gpg.d/apt.gpg] https://huggepugge1.github.io/apt ./
