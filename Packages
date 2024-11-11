@@ -2,13 +2,13 @@ Package: test-script
 Version: 0.1.2-1
 Architecture: amd64
 Maintainer: Hugo Lindström <huggepugge1@gmail.com>
-Installed-Size: 1974
+Installed-Size: 1938
 Depends: libc6 (>= 2.34)
 Filename: ./test-script_0.1.2-1_amd64.deb
-Size: 507492
-MD5sum: fece116b8940124769e78720b5cfd567
-SHA1: 0619f7afe5357042a53ebb2b76692cb661131b6d
-SHA256: 43f293cd8b0cbf6ab0d661b3bffdbbee97b3041fd69b053a53a0c5668c3dbbe0
+Size: 491580
+MD5sum: f01930e7aa9637738292c424376b306d
+SHA1: c79d6b30b651777bc159a9eb057ccafe900d157e
+SHA256: f57fd7b16303661299a47c4bb096aa08e18acaa973565a163d2c6d6f7db35e2e
 Section: utility
 Priority: optional
 Description: [generated from Rust crate test-script]
