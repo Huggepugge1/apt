@@ -1,7 +1,0 @@
-Origin: Foo
-Label: Foo Github
-Suite: stable
-Codename: jammy
-Architectures: amd64
-Components: main
-Description: Debian x64 github repository

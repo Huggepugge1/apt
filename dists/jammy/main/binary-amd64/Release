@@ -1,6 +1,0 @@
-Archive: stable
-Component: main
-Origin: Foo
-Label: Foo Github
-Architecture: amd64
-Description: Debian x64 github repository
