@@ -14,3 +14,19 @@ Priority: optional
 Description: [generated from Rust crate test_script]
  A simple hello world program!
 
+Package: test-script
+Version: 0.1.2-1
+Architecture: amd64
+Maintainer: Hugo Lindström <huggepugge1@gmail.com>
+Installed-Size: 1974
+Depends: libc6 (>= 2.34)
+Filename: ./test-script_0.1.2-1_amd64.deb
+Size: 507492
+MD5sum: fece116b8940124769e78720b5cfd567
+SHA1: 0619f7afe5357042a53ebb2b76692cb661131b6d
+SHA256: 43f293cd8b0cbf6ab0d661b3bffdbbee97b3041fd69b053a53a0c5668c3dbbe0
+Section: utility
+Priority: optional
+Description: [generated from Rust crate test-script]
+ Testing programming language for IO
+
