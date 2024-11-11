@@ -1,0 +1,37 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Date: Mon, 11 Nov 2024 21:06:00 +0000
+MD5Sum:
+ a20f54318ba427659da5ef39eb2f2ce3              499 Packages
+ 0335f989133f7796231f18cd4dfa6635              392 Packages.gz
+ a42de37cd0ab0d30dc4c082aaad063c3               38 Release
+SHA1:
+ c95f09ed302fd4c90f4327024171320215578e77              499 Packages
+ 219753afba4d5cea79808cd990e99c8e905b7c6c              392 Packages.gz
+ d5358e9a408242e85b700a1a437c0dbf19ffc574               38 Release
+SHA256:
+ 197ff6f06f28067e8c6aab9ab9e291dffb12a7e480164ab5f3cd474241055bad              499 Packages
+ 4f958f069d24d140ec076314e5cb135f87fab8fb7e696a119423666b4fc88557              392 Packages.gz
+ e2b4edfc6ee6af7bfe871d0a7e89aa7b97c6dadb63a6060f59aeae55537d7f74               38 Release
+SHA512:
+ 4a7b231f2afd00e2b68c90672a3b2e6ae32c7da2d467dbb344fb7e78c632486b96bc792ad9b987df7bbf2ba0b264865c0a307f05c52f03061997302010491bef              499 Packages
+ 606ab049624265e121cb97d85824baeb9c11b7d827dbdccf601f47a103a7673d7b6ffafb81f3aa5aa76147418b7fdc6dc5146091817ef481da3637417359e87f              392 Packages.gz
+ 3138e61d2f8ac0780811573ea77da0c0280633640a46003e9c04892dad88aaa1d809ce185ad9c27f49c20168e80882f43edd7b8bddce5007424c21afe58a579d               38 Release
+-----BEGIN PGP SIGNATURE-----
+
+iQJKBAEBCgA0FiEEZh1Ohudo0M+WSZTqVpHZYmH9pvUFAmcyccIWHGh1Z2dlcHVn
+Z2UxQGdtYWlsLmNvbQAKCRBWkdliYf2m9aE4D/9/vc+gfveYSUebMF9c9h5ySZ94
+g4L2DQvadTfaeKkizPFo6jz3eFOgR2u8cnLg5ePJmEYRGqO/XUeYO//jB9yrqJU2
+u+hMkQIJblPrg9xl+5PGFKqqSNa1KzwwIcPw/xNyamRLba5lyxMcVYEJ++itputP
+6WZKqIH1h7IcsEyzZmQUD2hnThHQHk2wM92F7TEE1Yl2+QbuFCPE/y+bfZh++rj2
+KhodHv/IYcZQGLp5cu1KIu0SXhxJBmBU8Nt2SluvU95LmelZf5CMCjXfWGNO+hss
+2GeTGGnZvSKDiBdEBCJ3rolXNpg9m/5JYNDefss+LSVWyo2ozKgLo80DU/fhq3Sp
+/o6OYg/dzTM7TZe6yhIijXwc+1h77gsi1UaQtr5zpQOBLN8OwxHRGVUPOvFaaFE+
+WLR+wc70GzvhheuGy4rDEuk2nQq4ynNca0EgFPhRmuqEUMuVQOTEGOmKrEUead6c
+ZJsNgIvbaiCKvPr0p+ufLx3JDK5dR0kehWu4rLbeFMQoD+4HiwBPJ3U120z8oiCs
+nvcBWulAB50vG/AjTFPSpjsylAfUw4JM2Yf/aCarhZDpRqi0y2yPJpwChLTfsAg9
+yjtDH5IQPkuhm9qQihJhZzvTWQQjDga4MuBg4ZDJR92yVSLMXYUnhpwThHRVxSn6
+LOpV0aVDxkia6UygWA==
+=SuaT
+-----END PGP SIGNATURE-----
