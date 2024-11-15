@@ -1,4 +1,11 @@
 #!/bin/bash
+cd ../projects/test_script
+
+cargo deb
+
+cd ../../apt
+cp ../projects/test_script/target/debian/*.deb ./
+
 # Packages & Packages.gz
 dpkg-scanpackages --multiversion . > Packages
 gzip -k -f Packages
