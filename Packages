@@ -30,3 +30,19 @@ Priority: optional
 Description: [generated from Rust crate test-script]
  Testing programming language for IO
 
+Package: test-script
+Version: 0.2.1-1
+Architecture: amd64
+Maintainer: Hugo Lindström <huggepugge1@gmail.com>
+Installed-Size: 3150
+Depends: libc6 (>= 2.34)
+Filename: ./test-script_0.2.1-1_amd64.deb
+Size: 848744
+MD5sum: f3fdce3998c76ba19b56c783ba83086a
+SHA1: 890b2090372717b275424637bd2c6d38a6fe5c4a
+SHA256: b0190714d699c48d8b5d0c44a6970e714ce252d657ee2d6445266e0956128b18
+Section: utility
+Priority: optional
+Description: Testing programming language for IO
+ Testing programming language for IO
+
