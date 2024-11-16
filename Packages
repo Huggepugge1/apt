@@ -37,10 +37,10 @@ Maintainer: Hugo Lindström <huggepugge1@gmail.com>
 Installed-Size: 3158
 Depends: libc6 (>= 2.34)
 Filename: ./test-script_0.2.1-1_amd64.deb
-Size: 848920
-MD5sum: 62c2210f3efd11e90cc0e1e168a154d0
-SHA1: 8629ca91e70c093e6eab1205e8a1dd1006c94108
-SHA256: f8cd83f211ba750949149770d8148b88709c1263bb074eaf81b544ef66e232db
+Size: 849040
+MD5sum: 2a6c1298f0a1deda420f9f4b49ea8a95
+SHA1: a1fd5cb47b70112376d102ac7924484476b50943
+SHA256: d8a74fd066a3d85bb7fa4914e9746ad676ef499eeaae91d96ae7af2550229f52
 Section: utility
 Priority: optional
 Description: Testing programming language for IO
