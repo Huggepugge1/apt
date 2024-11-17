@@ -46,3 +46,19 @@ Priority: optional
 Description: Testing programming language for IO
  Testing programming language for IO
 
+Package: test-script
+Version: 0.2.2-1
+Architecture: amd64
+Maintainer: Hugo Lindström <huggepugge1@gmail.com>
+Installed-Size: 2174
+Depends: libc6 (>= 2.34)
+Filename: ./test-script_0.2.2-1_amd64.deb
+Size: 565760
+MD5sum: 482629d636d1bc9f107902afd70700ec
+SHA1: e4c0c30fb1bc1d8dd34b5ef260e64d6067faca9d
+SHA256: 859545fc911a5eefcfdfd1c191a74d7f558a0920ed57c54506e3773c41ca063d
+Section: utility
+Priority: optional
+Description: Testing programming language for IO
+ Testing programming language for IO
+
