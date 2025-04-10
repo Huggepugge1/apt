@@ -50,13 +50,13 @@ Package: test-script
 Version: 0.2.2-1
 Architecture: amd64
 Maintainer: Hugo Lindström <huggepugge1@gmail.com>
-Installed-Size: 2174
+Installed-Size: 2288
 Depends: libc6 (>= 2.34)
 Filename: ./test-script_0.2.2-1_amd64.deb
-Size: 565760
-MD5sum: 482629d636d1bc9f107902afd70700ec
-SHA1: e4c0c30fb1bc1d8dd34b5ef260e64d6067faca9d
-SHA256: 859545fc911a5eefcfdfd1c191a74d7f558a0920ed57c54506e3773c41ca063d
+Size: 601864
+MD5sum: 02a0e44a70ec198664c9bd94826321b4
+SHA1: 56bcb06e1db9b39e5028707e4d59cf3b5f47a92f
+SHA256: b7c7bb486e38eb4e04ae26f874e6e929c4d0e380e8bb41b62a6300aa52ef6e64
 Section: utility
 Priority: optional
 Description: Testing programming language for IO
